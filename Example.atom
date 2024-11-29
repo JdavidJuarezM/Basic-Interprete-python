@@ -1,0 +1,10 @@
+ent a 
+cad b
+vf c
+a = 10
+b = "si"
+c = Verdadero
+lee (a)
+impri (b)
+impri ("Este es un ejemplo")
+
